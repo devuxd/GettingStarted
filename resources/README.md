@@ -15,5 +15,5 @@
 - [Google Chrome Developer Tools Crash Course.](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 ### Official Documentation
-- [Mozilla documentation on web technologies (HTML, CSS, DOM, JS).](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [Mozilla documentation on web technologies (HTML, CSS, DOM, JS).](https://developer.mozilla.org/en-US/docs/Web)
 - [React offcial documentation.](https://reactjs.org/)
